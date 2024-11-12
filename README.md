@@ -1,6 +1,6 @@
 # Miedema Calculator
 
-![image](https://github.com/user-attachments/assets/ad5d9b56-4dfd-4c02-8af4-9c89c0c08650)
+![image](https://github.com/user-attachments/assets/a3bcf1a1-127c-4bf1-8403-e8b47a918f4e)
 
 **Miedema Calculator** is a user-friendly application designed to calculate alloy formation enthalpies (energy) based on the Miedema theory and its derivative models, as developed by Dr. R. F. Zhang and collaborators. This tool is named in honor of renowned scientist Andries Miedema, whose empirical thermodynamic models greatly contributed to understanding metallic cohesion.
 
