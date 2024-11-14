@@ -1,6 +1,6 @@
 # Miedema Calculator
 
-![image](https://github.com/user-attachments/assets/a3bcf1a1-127c-4bf1-8403-e8b47a918f4e)
+![178135648-d0b6b748-e37c-48dd-ae60-8362056ff1bc](https://github.com/user-attachments/assets/f06c02ef-7499-40c2-b55e-df5b5faffe52)
 
 **Miedema Calculator** is a user-friendly application designed to calculate alloy formation enthalpies (energy) based on the Miedema theory and its derivative models, as developed by Dr. R. F. Zhang and collaborators. This tool is named in honor of renowned scientist Andries Miedema, whose empirical thermodynamic models greatly contributed to understanding metallic cohesion.
 
@@ -23,10 +23,10 @@ Miedema Calculator provides a comprehensive set of functionalities, including:
 - **License**: Free for non-commercial use
 
 ### Version
-The current version, **4.0**, is applicable to binary transition metal alloy systems and alloy systems containing at least one transition metal element. Use caution when applying it to alloys with two non-transition metals or polyvalent elements like N, B, and C.
+The current version, **4.3**, is applicable to binary transition metal alloy systems and alloy systems containing at least one transition metal element. Use caution when applying it to alloys with two non-transition metals or polyvalent elements like N, B, and C.
 
 ## Installation
-1. Download the latest release from the [official Miedema Calculator website](http://miedemacalc.weebly.com/).
+1. Download the latest release from the **MIEDCALC_v4.3** folder.
 2. Follow the on-screen instructions to install the software on your Windows system.
 
 ## Usage
@@ -48,7 +48,7 @@ For an in-depth understanding of the Miedema model and its applications, refer t
 ## License
 This software is provided for **non-commercial use** only.
 
-For any issues or questions, please refer to the [official website](http://miedemacalc.weebly.com/) or submit an issue here on GitHub.
+For any issues or questions, please refer to the [official website](http://micid.top/software/miedema) or submit an issue here on GitHub.
 
 ---
 
